@@ -1,0 +1,19 @@
+body {
+    position: relative;
+    height: 100%;
+  }
+  #wrap {
+    min-height: 100%;
+  }
+  main {
+    padding-bottom: 100px;
+    /*Высота футера*/
+  }
+  footer {
+    position: fixed;
+    bottom: 0;
+    margin-top: -100px;
+    /*Минус Высота футера*/
+    height: 100px;
+    /*Высота футера*/
+  }
